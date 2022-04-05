@@ -1,0 +1,31 @@
+id: P2ED1D856
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA00KG07631
+  instance_id: http://purl.bdrc.io/resource/IE00KG07631
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - རི་རྩེའི་སྤྲིན་དཀར།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - shan feng yun duo
+  author: http://purl.bdrc.io/resource/P00KG07632
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    b50eac1a82bd48db81968cd61260f411:
+      title: པོད ༡་རི་རྩེའི་སྤྲིན་དཀར
+      volume_number: 1
+      base_file: UT00KG07631_I00KG08434_0000.txt
+      reference: http://purl.bdrc.io/resource/VL7FB4A9A76392168F
+      image_group: I00KG08434
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W00KG07631
+  - http://purl.bdrc.io/resource/MW00KG07631
+  ocr_software: Namsel
+created_at: '2021-12-22T10:17:42.321754'
+last_modified_at: '2021-12-22T10:17:42.321761'
